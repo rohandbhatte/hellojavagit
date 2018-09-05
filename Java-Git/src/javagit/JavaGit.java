@@ -18,6 +18,7 @@ public class JavaGit {
         // TODO code application logic here
         System.out.println("Welcome to Git");
         //new line
+        System.out.println("New Line Commit");
     }
     
 }
